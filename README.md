@@ -1,4 +1,4 @@
-# ishita_profile
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Generative+AI+Developer;Earth+Observation+Analyst;LLM+Engineer;Hackathon+Lover;Always+Learning!&center=true&width=500&height=45">
@@ -8,20 +8,20 @@
 
 ## 👩‍💼 About Me
 
-Hello! I’m **Ishita**, a passionate AI researcher exploring intersections of **Generative AI, Computer Vision, NLP, and Geospatial Intelligence**.  
-I love building impactful solutions, especially in healthcare, climate science, and cybersecurity.  
+Hello! I’m **Ishita**, a passionate AI researcher exploring intersections of **Generative AI, Computer Vision, NLP**.  
+I love building impactful solutions, especially in healthcare.  
 Currently working on career guidance platforms, synthetic patient simulators, and Earth observation ML pipelines.  
 
 I thrive in hackathons, open-source environments, and I'm always learning and collaborating.
 
 ---
-
+<!--
 ### 🔭 Projects I'm Working On:
 - 🔬 **[SkillSync](https://github.com/your-link)** – AI career path recommender with Neo4j, FastAPI, Pinecone, and Gemini AI  
 - 🌡️ **[CME Heat Stress Analysis](https://github.com/your-link)** – Predicting LST using ML + GEE + Landsat/MODIS  
 - 🧠 **[SymptomSim](https://github.com/your-link)** – Synthetic patient profiles using GenAI for medical training  
 - 🔐 **[HoneyPotter](https://github.com/your-link)** – Cybersecurity honeypot with real-time ML attack detection  
-
+--->
 ---
 
 ### 👩‍💻 Technologies I Work With:
