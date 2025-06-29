@@ -1,9 +1,9 @@
 
-
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Generative+AI+Developer;Earth+Observation+Analyst;LLM+Engineer;Hackathon+Lover;Always+Learning!&center=true&width=500&height=45">
 </p>
-
+--->
 ---
 
 ## 👩‍💼 About Me
@@ -51,7 +51,7 @@ I thrive in hackathons, open-source environments, and I'm always learning and co
 </p>
 
 ---
-
+<!---
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishitak12&theme=dracula&margin-w=15" />
@@ -62,3 +62,4 @@ I thrive in hackathons, open-source environments, and I'm always learning and co
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishitak12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+---->
