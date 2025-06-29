@@ -12,7 +12,7 @@ Hello! I’m **Ishita**, a passionate AI researcher exploring intersections of *
 I love building impactful solutions, especially in healthcare.  
 Currently working on career guidance platforms, synthetic patient simulators, and Earth observation ML pipelines.  
 
-I thrive in hackathons, open-source environments, and I'm always learning and collaborating.
+I thrive in hackathons and I'm always learning and collaborating.
 
 ---
 <!--
@@ -43,13 +43,13 @@ I thrive in hackathons, open-source environments, and I'm always learning and co
 - 🌐 [LinkedIn](https://linkedin.com/in/ishitak12)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishitak12&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitak12&layout=compact&theme=radical" width="48%" />
 </p>
-
+---->
 ---
 <!---
 ## 🏆 GitHub Trophies
