@@ -8,7 +8,7 @@
 
 ## 👩‍💼 About Me
 
-Hello! I’m **Ishita**, a passionate AI researcher exploring intersections of **Generative AI, Computer Vision, NLP**.  
+Hello! I’m **Ishita**, a passionate AI researcher exploring intersections of **ML, Generative AI, Computer Vision, NLP**.  
 I love building impactful solutions, especially in healthcare.  
 Currently working on career guidance platforms, synthetic patient simulators, and Earth observation ML pipelines.  
 
