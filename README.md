@@ -1,26 +1,22 @@
 ## 👩‍💼 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Generative+AI+Developer;LLM+Engineer;Hackathon+Lover;Always+Learning!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Generative+AI+Developer;AI+ML+enthusiast;Hackathon+Lover;Always+Learning!&center=true&width=500&height=45">
 </p>
 
-
-<!--## 👩‍💼 About Me
--->
-Hello! I’m **Ishita**, a passionate AI researcher exploring intersections of **ML, Generative AI, Computer Vision, NLP**.  
+Hello! I’m **Ishita Kadam**, a passionate AI researcher exploring intersections of **ML, Generative AI, Computer Vision, NLP**.  
 I love building impactful solutions, especially in healthcare.  
 Currently working on career guidance platforms, synthetic patient simulators, and Earth observation ML pipelines.  
 
-I thrive in hackathons and I'm always learning and collaborating.
--->
+I thrive in hackathons and I'm always learning and collaborating.  
+
 ---
 
 ### 🔭 Projects I'm Working On:
 - 🔬 **[SkillSync](https://github.com/your-link)** – AI career path recommender with Neo4j, FastAPI, Pinecone, and Gemini AI  
 - 🌡️ **[CME Heat Stress Analysis](https://github.com/your-link)** – Predicting LST using ML + GEE + Landsat/MODIS  
-  <!-- 🧠 **[SymptomSim](https://github.com/your-link)** – Synthetic patient profiles using GenAI for medical training  
+  <!-- 🧠 **[SymptomSim](https://github.com/your-link)** – Synthetic patient profiles using GenAI for medical training -->  
 
---->
 ---
 
 ### 👩‍💻 Technologies I Work With:
@@ -38,8 +34,8 @@ I thrive in hackathons and I'm always learning and collaborating.
 
 ### 📫 Reach Me:
 - 📍 Pune, India  
-- 📧 ishitakadam960@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/ishitak12)
+- 📧 [ishitakadam960@gmail.com](mailto:ishitakadam960@gmail.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/ishitak12)  
 
 ---
 
@@ -48,17 +44,9 @@ I thrive in hackathons and I'm always learning and collaborating.
   <img src="https://github-readme-stats.vercel.app/api?username=ishitak12&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitak12&layout=compact&theme=radical" width="48%" />
 </p>
----->
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishitak12&theme=dracula&margin-w=15" />
-</p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishitak12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
----->
