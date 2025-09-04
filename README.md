@@ -50,7 +50,7 @@ I thrive in hackathons and I'm always learning and collaborating.
 </p>
 ---->
 ---
-<!---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishitak12&theme=dracula&margin-w=15" />
