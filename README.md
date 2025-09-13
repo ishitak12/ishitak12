@@ -14,7 +14,8 @@ I thrive in hackathons and I'm always learning and collaborating.
 
 ### 🔭 Projects I'm Working On:
   <!--- 🔬 **[SkillSync](https://github.com/your-link)** – AI career path recommender with Neo4j, FastAPI, Pinecone, and Gemini AI -->   
-- 🌡️ **[GeoHeat-CME](https://github.com/ishitak12/GeoHeat-CME)** – Predicting LST using ML + GEE + Landsat/MODIS  
+- 🌡️ **[GeoHeat-CME](https://github.com/ishitak12/GeoHeat-CME)** – Predicting LST using ML + GEE + Landsat/MODIS
+- 🌟 **[Skillmap.ai](https://github.com/ishitak12/skillmap.ai)** - SkillMapAI leverages AI to provide personalized career recommendations for students.
   <!-- 🧠 **[SymptomSim](https://github.com/your-link)** – Synthetic patient profiles using GenAI for medical training -->  
 
 ---
